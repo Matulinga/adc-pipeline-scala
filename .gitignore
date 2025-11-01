@@ -14,3 +14,9 @@ packages/
 # OS-specific
 .DS_Store
 Thumbs.db
+
+
+#Add target/ to .gitignore
+target/
+*.jar
+
