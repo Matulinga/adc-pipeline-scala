@@ -1,0 +1,16 @@
+# Build artifacts
+obj/
+packages/
+*.class
+*.log
+*.bin
+
+# IDE and metadata
+.vscode/
+.idea/
+*.iml
+*.semanticdb
+
+# OS-specific
+.DS_Store
+Thumbs.db
