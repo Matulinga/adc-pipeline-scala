@@ -355,3 +355,10 @@ import org.apache.spark.sql.types._
 2025.10.31 11:30:47 WARN  Could not load snapshot text for C:\adc-pipeline\src\test\scala\com\enalink\pipeline\MainTest.scala
 2025.10.31 11:32:27 WARN  Could not load snapshot text for C:\adc-pipeline\src\test\scala\com\enalink\pipeline\MainTest.scala
 2025.10.31 11:36:08 WARN  Could not load snapshot text for C:\adc-pipeline\src\test\scala\com\enalink\pipeline\MainTest.scala
+2025.10.31 12:33:56 WARN  Could not load snapshot text for C:\adc-pipeline\src\test\scala\com\enalink\pipeline\MainTest.scala
+2025.10.31 12:34:29 WARN  Could not load snapshot text for C:\adc-pipeline\src\test\scala\com\enalink\pipeline\MainTest.scala
+2025.10.31 12:36:53 WARN  Could not load snapshot text for C:\adc-pipeline\src\test\scala\com\enalink\pipeline\MainTest.scala
+2025.10.31 12:41:17 INFO  Created report: Optional[file:///C:/adc-pipeline/src/main/scala/com/enalink/pipeline/Main.scala]
+2025.10.31 12:41:17 INFO  empty definition using pc, found symbol in pc:  (full report at: "C:\Users\ADMIN\AppData\Local\Temp\fallback-service9554211264974186171\.metals\.reports\metals-full\2025-10-31\r_empty-definition_(metals-scala-cli4637035546550774275_5f390a34e233-dd6acb0e28)_12-41-17-728.md")
+2025.10.31 14:14:04 WARN  Could not load snapshot text for C:\adc-pipeline\src\test\scala\com\enalink\pipeline\MainTest.scala
+2025.10.31 14:45:57 WARN  Could not load snapshot text for C:\adc-pipeline\src\test\scala\com\enalink\pipeline\MainTest.scala
